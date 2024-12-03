@@ -43,3 +43,25 @@ To set up the Secure Safe project locally, follow these steps:
 4. **Run the application:**
     ```bash
     python app.py
+
+## 🖥️ Usage
+Upload Files: Use the upload feature to select and upload files securely.
+Download Files: Retrieve your files by selecting them from the storage.
+Encryption Process: Files are automatically segmented and encrypted upon upload.
+Key Management: Unique keys are generated for each file segment, ensuring secure access.
+## 🤝 Contributing
+Contributions are welcome! If you would like to contribute to Secure Safe, please follow these steps:
+Fork the repository.
+Create a new branch (git checkout -b feature/YourFeature).
+Make your changes and commit them (git commit -m 'Add some feature').
+Push to the branch (git push origin feature/YourFeature).
+Open a pull request.
+
+##📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+##📬 Contact
+For any questions or feedback, please reach out to:
+
+Your Name: saihari292@gmail.com
+GitHub: @hariPRO6
