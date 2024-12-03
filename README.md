@@ -10,7 +10,7 @@
 - [License](#license)
 - [Contact](#contact)
 
-# 🔍 Overview
+## 🔍 Overview
 **Secure Safe** is a web-based application designed for secure file storage and transfer. It employs advanced cryptographic techniques to ensure the confidentiality and integrity of user data. By utilizing a hybrid encryption approach, Secure Safe allows users to upload, store, and download files securely.
 
 # ✨ Features
@@ -45,17 +45,18 @@ To set up the Secure Safe project locally, follow these steps:
     python app.py
 
 ## 🖥️ Usage
-Upload Files: Use the upload feature to select and upload files securely.
-Download Files: Retrieve your files by selecting them from the storage.
-Encryption Process: Files are automatically segmented and encrypted upon upload.
-Key Management: Unique keys are generated for each file segment, ensuring secure access.
+1. Upload Files: Use the upload feature to select and upload files securely.
+2. Download Files: Retrieve your files by selecting them from the storage.
+3. Encryption Process: Files are automatically segmented and encrypted upon upload.
+4. Key Management: Unique keys are generated for each file segment, ensuring secure access.
+
 ## 🤝 Contributing
 Contributions are welcome! If you would like to contribute to Secure Safe, please follow these steps:
-Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Make your changes and commit them (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a pull request.
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/YourFeature).
+3. Make your changes and commit them (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature/YourFeature).
+5. Open a pull request.
 
 ##📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
