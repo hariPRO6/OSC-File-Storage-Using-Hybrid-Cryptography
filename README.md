@@ -24,7 +24,6 @@
 - **Backend**: Python, Flask
 - **Frontend**: React, HTML5, CSS3, JavaScript
 - **Cryptography**: Cryptography Library (e.g., PyCryptodome)
-- **Database**: SQLite (or any other database of your choice)
 
 ## 📥 Installation
 To set up the Secure Safe project locally, follow these steps:
